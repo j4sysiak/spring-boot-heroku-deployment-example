@@ -1,4 +1,5 @@
-aplikacja w Heroku:  safe-tor-68368
+aplikacja w Heroku:  spring-boot-heroku-deployment
+c:\Users\Jacek\Documents\JAVA\building deploying to HEROKU.doc
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
